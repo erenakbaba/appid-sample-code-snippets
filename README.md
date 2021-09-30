@@ -40,6 +40,9 @@ And if you are not, don't worry! We have got you covered! There are 3 steps to c
 
 2.3 - Download the sample app From workshop's [Git Repository](https://github.com/IBMDeveloperMEA/Securely-Manage-access-to-your-Applications-Sensitive-Data-on-IBM-Cloud) click on code and download zip file. Unzip the file to a path of your choice. 
 
+<img width="710" alt="11" src="https://user-images.githubusercontent.com/16270682/135452891-d5da1baa-f8bc-4b13-aa6f-19b0148121f8.PNG">
+
+
 You can also use this link to [Download the sample app.](https://github.com/ibm-cloud-security/appid-sample-code-snippets/tree/master/access-control-demo-apps)
 
 Add localhost:3000/* to your list of allowed redirect URIs. You can edit your allowed redirect URIs on the **Manage authentication > Authentication settings** page of the App ID dashboard.
