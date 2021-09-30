@@ -190,12 +190,12 @@ configure social identity providers to set up a single sign-on experience for yo
 
 ## Links to the previous sessions in "Journey to Low Code/ No Code Application Security"
 
-## 24th September- 7PM-9PM (GMT+5)
+#### 24th September- 7PM-9PM (GMT+5)
 
 Securely Manage access to your Applications Sensitive Data on IBM Cloud
 https://www.crowdcast.io/e/journey-to-low-code-no-code-app-security-1
 
-## 28th September- 7PM-9PM (GMT+5)
+#### 28th September- 7PM-9PM (GMT+5)
 
 Easily Secure your Spring boot app with Low code/No Code
 https://www.crowdcast.io/e/journey-to-low-code-no-code-app-security-2
