@@ -38,7 +38,7 @@ And if you are not, don't worry! We have got you covered! There are 3 steps to c
 
 2.2- Click create botton to start your App ID instance
 
-2.3 - Download the sample app From workshop's [Git Repository]() click on code and download zip file. Unzip the file to a path of your choice. 
+2.3 - Download the sample app From workshop's [Git Repository](https://github.com/IBMDeveloperMEA/Securely-Manage-access-to-your-Applications-Sensitive-Data-on-IBM-Cloud) click on code and download zip file. Unzip the file to a path of your choice. 
 
 You can also use this link to [Download the sample app.](https://github.com/ibm-cloud-security/appid-sample-code-snippets/tree/master/access-control-demo-apps)
 
